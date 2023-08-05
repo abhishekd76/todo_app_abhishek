@@ -11,9 +11,6 @@ The TODO APP feature include:
 ## splash
 This is splash screen of my to do app
 ![add](screenshotandvideos/Splaces.gif)
-## About_menu
-This is about menu of to do app
-![add](screenshotandvideos/Aboutmenu.gif)
 ## Add_Task
 This is todo app where we add task
 ![add](screenshotandvideos/Addtask.gif)
